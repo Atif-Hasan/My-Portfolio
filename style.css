@@ -71,6 +71,10 @@ nav.fixed-top {
     text-align: center;
 }
 
+.project {
+    margin-top: 40px;
+}
+
 .project-link {
     text-decoration: none;
 }
